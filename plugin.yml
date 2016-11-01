@@ -3,7 +3,7 @@ main: EmreTr1\Main
 version: 1.0
 api: 2.0.0
 author: EmreTr1
-description: SpecialGround for Plugin
+description: SpecialGround Plugin for PocketMine
 website: minedogs.tk
 commands:
  spg:
