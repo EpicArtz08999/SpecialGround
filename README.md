@@ -17,6 +17,6 @@ You can use on Portals, Games, Signs etc.
 - /spg pos2 » Set the Ground pos2
 - /spg create <name> » Create a Ground
 - /spg remove <name> » Remove a Ground
-- /spg edit <addcommand|more edits soon> » Edit the Ground
+- /spg edit <addcommand | more edits soon> » Edit the Ground
 
 Note: Ground Positions activating on Your Position
