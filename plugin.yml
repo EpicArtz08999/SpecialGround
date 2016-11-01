@@ -1,0 +1,10 @@
+name: SpecialGround
+main: EmreTr1\Main
+version: 1.0
+api: 2.0.0
+author: EmreTr1
+description: SpecialGround for Plugin
+website: minedogs.tk
+commands:
+ spg:
+   description: SpecialGround Plugin main Command
